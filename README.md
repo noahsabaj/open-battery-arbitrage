@@ -13,7 +13,7 @@ Commercial electricity rates vary dramatically throughout the day, sometimes dif
 
 We're building OpenBattery because:
 
-- Energy arbitrage technology should be accessible to all businesses
+- Energy arbitrage technology should be accessible to everyone
 - Users deserve to understand and control their own systems
 - Together we can build better solutions than any single company
 
@@ -65,6 +65,12 @@ We believe in the right to repair - customers can modify their systems as needed
 - [ ] Monitoring dashboard MVP
 - [ ] First pilot installation
 - [ ] Community contribution guidelines
+
+## Environmental Impact
+
+This has the potential to reduce carbon emissions from power plants as this system not only makes you money but doubles as a load balancer, allowing power plants to scale back how much electricity they need to make in order to meet demand by tapping into stored reserves when energy consumption was low.
+
+For every 1 MWh shifted from peak to off-peak, approximately X kg of CO₂ emissions can be avoided by reducing reliance on peaker plants. (May 2025 | SE Michigan)
 
 ## License
 
