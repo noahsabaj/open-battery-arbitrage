@@ -68,9 +68,7 @@ We believe in the right to repair - customers can modify their systems as needed
 
 ## Environmental Impact
 
-This has the potential to reduce carbon emissions from power plants as this system not only makes you money but doubles as a load balancer, allowing power plants to scale back how much electricity they need to make in order to meet demand by tapping into stored reserves when energy consumption was low.
-
-For every 1 MWh shifted from peak to off-peak, approximately X kg of CO₂ emissions can be avoided by reducing reliance on peaker plants. (May 2025 | SE Michigan)
+See our [ENVIRONMENTAL-IMPACT.md](ENVIRONMENTAL-IMPACT.md) file to learn more about how **OB** (Open Battery) is a boon for both your wallet and the environment.
 
 ## License
 
